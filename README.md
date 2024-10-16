@@ -1,2 +1,2 @@
 # php
-este repositorio es para ir colgando las actividades php desde cero hasta avanzado
+este repositorio es para ir aprendiendo php paso a paso
